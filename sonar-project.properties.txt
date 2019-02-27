@@ -1,4 +1,4 @@
 mvn sonar:sonar \
-  -Dsonar.projectKey=sonar-report \
+  -Dsonar.projectKey=sonar-test
   -Dsonar.host.url=http://localhost:9000 \
   -Dsonar.login=d4b6e085fd0ccc2659cb66f29783ec01f0435e94
