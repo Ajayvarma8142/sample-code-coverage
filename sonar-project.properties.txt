@@ -1,13 +1,4 @@
-# Required metadata
-sonar.projectKey=sonar-test
-sonar.projectName=sonar-sample-report
-sonar.projectVersion=0.0.1
-
-# Comma-separated paths to directories with sources (required)
-sonar.source=./src
-
-# Language
-sonar.language=java
-
-# Encoding of the source files
-sonar.sourceEncoding=UTF-8
+mvn sonar:sonar \
+  -Dsonar.projectKey=sonar-report \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=d4b6e085fd0ccc2659cb66f29783ec01f0435e94
