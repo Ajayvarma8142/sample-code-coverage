@@ -1,6 +1,6 @@
 # Required metadata
 sonar.projectKey=sonar-test
-sonar.projectName=Simple Java project analyzed with the SonarQube Runner
+sonar.projectName=sonar-sample-report
 sonar.projectVersion=0.0.1
 
 # Comma-separated paths to directories with sources (required)
