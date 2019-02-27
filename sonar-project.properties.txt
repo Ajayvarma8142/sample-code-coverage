@@ -1,10 +1,10 @@
 # Required metadata
-sonar.projectKey=junitsample
+sonar.projectKey=sonar-test
 sonar.projectName=Simple Java project analyzed with the SonarQube Runner
 sonar.projectVersion=0.0.1
 
 # Comma-separated paths to directories with sources (required)
-sonar.sources=C:\Program Files (x86)\Jenkins\workspace\sonar_test
+sonar.source=./src
 
 # Language
 sonar.language=java
