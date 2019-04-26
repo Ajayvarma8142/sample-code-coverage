@@ -1,7 +1,7 @@
 ## Required metadata
 #projectKey must be unique in a given SonarQube instance
 
-sonar.projectKey=sample-sonar-report
+sonar.projectKey=a9abe2eb79dc04df586f566aadc29bda4fb9021d
 #This is the name & version displayed in the SonarQube user interface.
 
 sonar.projectName=sonar-ant-scanner
@@ -15,6 +15,6 @@ sonar.projectVersion=1.0
 
 #sonar-project.properties file.
 
-sonar.sources=C:/Program Files/sonar/sonar-scanner-3.3.0.1492-windows/bin
+sonar.sources=/src
 # Encoding of the source files
 sonar.sourceEncoding=UTF-8
